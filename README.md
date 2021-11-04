@@ -19,3 +19,10 @@ The purpose of this analysis is to collect data on temperature trends in Oahu, H
 
 ## Summary
 Overall from our analysis we can determine that there is not a significant change in weather from June to December. The average temperature remains relatively similar in the low 70's, and the high temperatures are even more similiar at 85 and 83 degrees respectively. The most drastic difference is the low temperature, with an 8 degree difference, but is still not an overall significant change in the weather pattern between the 2 months. Based on this data, the surf and ice cream shop seems sustainable based off temperatures remaining relatively similar for most of the year. Additional queries should be run to determine precipitation statistics in June and December to determine if there are any significant changes that could impact year round operations. We should also run queries temperature and preciptiation queries for other months in order to have a well rounded sample of data to determine year round sustainability.
+
+
+### Resources
+- Python 3.8.8
+- Jupyter Notebook
+- SQLite
+- SQLALchemy
